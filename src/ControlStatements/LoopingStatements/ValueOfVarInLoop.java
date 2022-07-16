@@ -1,4 +1,4 @@
-package operators.ControlStatements.LoopingStatements;
+package ControlStatements.LoopingStatements;
 
 public class ValueOfVarInLoop {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package operators.ControlStatements.LoopingStatements.NestedLoop;
+package ControlStatements.LoopingStatements.NestedLoop;
 /*
 	1	2	3
 1	*

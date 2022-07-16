@@ -1,4 +1,4 @@
-package operators.ControlStatements.LoopingStatements;
+package ControlStatements.LoopingStatements;
 /*
 10 9 8 7
  */

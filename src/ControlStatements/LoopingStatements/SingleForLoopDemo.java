@@ -1,4 +1,4 @@
-package operators.ControlStatements.LoopingStatements;
+package ControlStatements.LoopingStatements;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package operators.ControlStatements.LoopingStatements.NestedLoop;
+package ControlStatements.LoopingStatements.NestedLoop;
 
 public class TYpe3_1_way2 {
     public static void main(String[] args) {
