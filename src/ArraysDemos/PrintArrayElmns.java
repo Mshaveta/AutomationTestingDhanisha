@@ -14,7 +14,10 @@ public class PrintArrayElmns {
 //
 //        }
         System.out.println("----------------");
-        for( int value : arr){
+
+
+        int[] newArr = new int[] {110,120,130,140,150};
+        for( int value : newArr){
             System.out.println(value);
         }
 
